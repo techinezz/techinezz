@@ -23,7 +23,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.yeifran-martinez.me/">Yeifran Martinez</a></b>
+                <b><a target="_blank" href="https://www.yeifran-martinez.me/">Leo Martinez</a></b>
         </samp>
 </h3>
 
